@@ -1,16 +1,23 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "SCSS",
-    "ERB Snippets"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Emmet Style Reflector",
+		"EmmetOneLine",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"JSX",
+		"Package Control",
+		"SCSS"
+	]
 }
